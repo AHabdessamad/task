@@ -1,0 +1,164 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "matricul": "ABC123",
+      "description": "Toyota Corolla, 2019 model, 50,000 km, 1.8L engine, top speed 180 km/h",
+      "type": "Sedan",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "matricul": "XYZ456",
+      "description": "Honda Civic, 2018 model, 40,000 km, 2.0L engine, top speed 190 km/h",
+      "type": "Sedan",
+      "price": 22000
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "matricul": "DEF789",
+      "description": "Ford Mustang, 2020 model, 20,000 km, 5.0L engine, top speed 250 km/h",
+      "type": "Sports Car",
+      "price": 35000
+    },
+    {
+      "id": 4,
+      "name": "Tesla Model 3",
+      "matricul": "GHI012",
+      "description": "Tesla Model 3, 2022 model, electric car, range 400 km, top speed 225 km/h",
+      "type": "Electric",
+      "price": 45000
+    },
+    {
+      "id": 5,
+      "name": "Jeep Wrangler",
+      "matricul": "JKL345",
+      "description": "Jeep Wrangler, 2021 model, 30,000 km, 3.6L engine, top speed 170 km/h",
+      "type": "SUV",
+      "price": 30000
+    },
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "matricul": "ABC123",
+      "description": "Toyota Corolla, 2019 model, 50,000 km, 1.8L engine, top speed 180 km/h",
+      "type": "Sedan",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "name": "Honda Civic",
+      "matricul": "XYZ456",
+      "description": "Honda Civic, 2018 model, 40,000 km, 2.0L engine, top speed 190 km/h",
+      "type": "Sedan",
+      "price": 22000
+    },
+    {
+      "id": 3,
+      "name": "Ford Mustang",
+      "matricul": "DEF789",
+      "description": "Ford Mustang, 2020 model, 20,000 km, 5.0L engine, top speed 250 km/h",
+      "type": "Sports Car",
+      "price": 35000
+    },
+    {
+      "id": 4,
+      "name": "Tesla Model 3",
+      "matricul": "GHI012",
+      "description": "Tesla Model 3, 2022 model, electric car, range 400 km, top speed 225 km/h",
+      "type": "Electric",
+      "price": 45000
+    },
+    {
+      "id": 5,
+      "name": "Jeep Wrangler",
+      "matricul": "JKL345",
+      "description": "Jeep Wrangler, 2021 model, 30,000 km, 3.6L engine, top speed 170 km/h",
+      "type": "SUV",
+      "price": 30000
+    },
+    {
+      "id": 6,
+      "name": "BMW 3 Series",
+      "matricul": "MNO678",
+      "description": "BMW 3 Series, 2020 model, 35,000 km, 2.0L engine, top speed 240 km/h",
+      "type": "Luxury Sedan",
+      "price": 40000
+    },
+    {
+      "id": 7,
+      "name": "Audi Q5",
+      "matricul": "PQR901",
+      "description": "Audi Q5, 2021 model, 25,000 km, 3.0L engine, top speed 230 km/h",
+      "type": "Luxury SUV",
+      "price": 50000
+    },
+    {
+      "id": 8,
+      "name": "Chevrolet Silverado",
+      "matricul": "STU234",
+      "description": "Chevrolet Silverado, 2019 model, 60,000 km, 5.3L engine, top speed 190 km/h",
+      "type": "Pickup Truck",
+      "price": 28000
+    },
+    {
+      "id": 9,
+      "name": "Volkswagen Golf",
+      "matricul": "VWX567",
+      "description": "Volkswagen Golf, 2022 model, 15,000 km, 1.5L engine, top speed 200 km/h",
+      "type": "Hatchback",
+      "price": 22000
+    },
+    {
+      "id": 10,
+      "name": "Mercedes-Benz S-Class",
+      "matricul": "YZA890",
+      "description": "Mercedes-Benz S-Class, 2023 model, 10,000 km, 4.0L engine, top speed 270 km/h",
+      "type": "Luxury Sedan",
+      "price": 80000
+    },
+    {
+      "id": 11,
+      "name": "Nissan Rogue",
+      "matricul": "BCD345",
+      "description": "Nissan Rogue, 2021 model, 28,000 km, 2.5L engine, top speed 200 km/h",
+      "type": "SUV",
+      "price": 26000
+    },
+    {
+      "id": 12,
+      "name": "Ford F-150",
+      "matricul": "EFG678",
+      "description": "Ford F-150, 2020 model, 50,000 km, 3.5L engine, top speed 190 km/h",
+      "type": "Pickup Truck",
+      "price": 35000
+    },
+    {
+      "id": 13,
+      "name": "Honda Accord",
+      "matricul": "HIJ901",
+      "description": "Honda Accord, 2022 model, 18,000 km, 2.0L engine, top speed 210 km/h",
+      "type": "Sedan",
+      "price": 28000
+    },
+    {
+      "id": 14,
+      "name": "Subaru Outback",
+      "matricul": "KLM234",
+      "description": "Subaru Outback, 2021 model, 20,000 km, 2.5L engine, top speed 200 km/h",
+      "type": "Wagon",
+      "price": 32000
+    },
+    {
+      "id": 15,
+      "name": "Lexus RX",
+      "matricul": "NOP567",
+      "description": "Lexus RX, 2022 model, 12,000 km, 3.5L engine, top speed 240 km/h",
+      "type": "Luxury SUV",
+      "price": 55000
+    }
+  ]
+}
